@@ -1,6 +1,6 @@
 ## About
 
-Threepole is a clean, minimal Destiny 2 timer/tracker written in Rust and Svelte that displays stats about your current activity and clear history.
+ZOmbp0le is a clean, minimal Destiny 2 timer/tracker written in Rust and Svelte that displays stats about your current activity and clear history.
 
 **If you want to use the overlay, make sure that you play Destiny 2 in borderless windowed or windowed fullscreen mode.**
 
