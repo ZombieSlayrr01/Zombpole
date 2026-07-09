@@ -13,4 +13,3 @@ Threepole is a clean, minimal Destiny 2 timer/tracker written in Rust and Svelte
 - Clean, unintrusive widget located above your minimap
 - Easy-to-access configuration and account-switching
 - Runs in the background and is manageable via the tray icon
-- More features coming soon
